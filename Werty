@@ -12,3 +12,4 @@ vless://050964e4-dc23-4b3f-b5e9-adc441d515d3@sw4.lostpool.org:443?security=reali
 vless://050964e4-dc23-4b3f-b5e9-adc441d515d3@us.lostpool.org:443?security=reality&encryption=none&pbk=j0ivAKaCcoMMcbYG72Zdp7fYKTzGH0RQCuLC4cM7tT4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=us.lostpool.org&sid=4cca1511acbc3ca8#🇺🇸США🦍
 vless://539ee4eb-3885-4c69-909b-7e2c3e2d79a2@kezbpn.mooo.com:443?type=ws&encryption=none&path=%2Flt&host=kezbpn.mooo.com&security=tls&sni=kezbpn.mooo.com#🇱🇹Литва🦴
 vless://5e67620a-dd1c-4679-9191-8b8040b8afa3@sus.viaware.ru:443?security=reality&encryption=none&pbk=iS7vzb8uSP0kNreWOHlTaOx8OSogJYb9jr8HJ9deo38&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sus.viaware.ru&sid=1631dc34b3a90c4c#🇺🇸США 2🐈‍⬛
+trojan://CKeadyv-9RoLnwJ_JNM7N5oFEYZ03Zex@sus.viaware.ru:9443?security=tls&alpn=http/1.1&headerType=none&allowinsecure=0&type=tcp&sni=sus.viaware.ru#🇺🇸США 3🐺
