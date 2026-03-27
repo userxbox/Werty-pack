@@ -16,3 +16,4 @@ vless://5d188e15-7c9e-4314-954d-474476b5cb2c@hla.tunnelguard.ru:443?mode=auto&pa
 trojan://X_x5K2RYCTo1a1oF4sTzMdzVRBF4DeKd@snl.viaware.ru:9443?security=tls&alpn=http/1.1&headerType=none&allowinsecure=0&type=tcp&sni=snl.viaware.ru#🇳🇱Нидерланды 2
 vless://d9c2d240-88b3-4983-8859-ff73554bd227@94.198.217.83:8080?path=%2Fupload&security=none&encryption=none&type=ws#🇷🇺YouTube без рекламы 2
 vless://d9c2d240-88b3-4983-8859-ff73554bd227@147.45.220.166:8080?path=%2Fupload&security=none&encryption=none&type=ws#🇯🇵Япония
+vless://eca43cf4-7a13-4b08-90ca-ccb3ade25022@skz.viaware.ru:8443?mode=auto&path=%2Fpath&security=reality&encryption=none&pbk=2t6lmNpwi7l4nvn0pb5yAA79oGae4T85YGt-afyIA0A&host=skz.viaware.ru&fp=chrome&spx=%2F&allowinsecure=0&type=xhttp&sni=skz.viaware.ru&sid=db9643b166e73033#хз какая страна
