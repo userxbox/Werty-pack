@@ -15,3 +15,4 @@ vless://66d4fe18-833a-4960-98d6-b71dc2601b40@193.233.48.226:8443?security=realit
 vless://66d4fe18-833a-4960-98d6-b71dc2601b40@45.149.147.75:8443?security=reality&encryption=none&pbk=HWHDb7OWiDGIfVxYox4t5_prT-p33Z6HRs0O2r9Cuhg&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=8489151c019b9f84#🇫🇮Финляндия 3 [Нейросети типо CHATGPT] 
 vless://66d4fe18-833a-4960-98d6-b71dc2601b40@45.145.56.88:8443?security=reality&encryption=none&pbk=HWHDb7OWiDGIfVxYox4t5_prT-p33Z6HRs0O2r9Cuhg&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=8489151c019b9f84#🇩🇪Германия 3
 hysteria2://tg_8051108529_501b67a0:1e3efe79d02777881722c18e@167.253.65.116:443?security=tls&allowinsecure=1#🇺🇸США 1
+hysteria2://tg_8051108529_501b67a0:1e3efe79d02777881722c18e@45.82.245.214:443?security=tls&allowinsecure=1#🇧🇷Бразилия 1
