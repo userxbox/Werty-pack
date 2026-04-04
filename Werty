@@ -1,7 +1,7 @@
 #profile-title: werty pack
 #profile-update-interval: 7
 
-vless://371f2ff8-93cd-4345-94aa-7d1801bdfdbb@217.170.199.147:443?security=reality&encryption=none&alpn=h2&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=azure.com#TG wertyezzz
+vless://371f2ff8-93cd-4345-94aa-7d1801bdfdbb@217.170.199.147:443?security=reality&encryption=none&alpn=h2&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=azure.com#TG wertyezzz заходите
 vless://7775c5de-3943-4cf9-8a11-05659ac1d64b@fvpn.me:443?path=%2Fws&security=tls&encryption=none&host=fvpn.me&allowinsecure=0&type=ws&sni=fvpn.me#🇱🇻Латвия 🐎 
 vless://fec2b57f-c07b-45af-9477-5b14b8637e10@gertest4.nekosocks.com:443?security=reality&encryption=none&pbk=AhkyAJxZ8UYM7Bj7ILcCbUvyORQkkZSwcdqImXsdGRM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gertest4.nekosocks.com&sid=2d44769cec2b91b2#🇩🇪Германия 1 🦘⚡⚡⚡ быстро
 vless://74e06c70-fbc5-4d2e-8658-94889865a9ab@144.31.216.82:443?security=reality&encryption=none&pbk=hA3I6FguuB9cE-j4cJZ169tA2tWMgp-x5x2n5-2kKnM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tunnel.vk-apps.com&sid=35e4d848#🇨🇭Швейцария 1
@@ -15,3 +15,4 @@ vless://74e06c70-fbc5-4d2e-8658-94889865a9ab@150.241.82.30:443?security=reality&
 vless://74e06c70-fbc5-4d2e-8658-94889865a9ab@150.241.73.37:443?security=reality&encryption=none&pbk=LLTF8B7_xbB9ew2tx9tEKuQGKrnerUlOAKk_hPEf9lA&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tunnel.vk-apps.com&sid=d3dc3e69#🇮🇹Италия
 vless://74e06c70-fbc5-4d2e-8658-94889865a9ab@85.239.43.7:443?security=reality&encryption=none&pbk=cn2-LCnGrg74QBSgo6bNaQTuGyfVotH6cWVmrOSumhY&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tunnel.vk-apps.com&sid=11c41134#🇷🇺Youtube без рекламы 2
 vless://74e06c70-fbc5-4d2e-8658-94889865a9ab@144.31.216.82:443?security=reality&encryption=none&pbk=hA3I6FguuB9cE-j4cJZ169tA2tWMgp-x5x2n5-2kKnM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tunnel.vk-apps.com&sid=35e4d848#🇫🇷Франция 2
+vless://74e06c70-fbc5-4d2e-8658-94889865a9ab@144.31.230.80:443?security=reality&encryption=none&pbk=0QN4Z11d0vBgJrZBFsQPXWFt_rHSKtyHrmF80qU_VQQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tunnel.vk-apps.com&sid=743dee2a#Gemini
