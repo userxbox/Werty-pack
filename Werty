@@ -2,7 +2,6 @@
 #profile-update-interval: 7
 
 vless://371f2ff8-93cd-4345-94aa-7d1801bdfdbb@217.170.199.147:443?security=reality&encryption=none&alpn=h2&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=azure.com#TG wertyNOW заходите
-vless://7775c5de-3943-4cf9-8a11-05659ac1d64b@fvpn.me:443?path=%2Fws&security=tls&encryption=none&host=fvpn.me&allowinsecure=0&type=ws&sni=fvpn.me#🇱🇻Латвия 🐎 
 vless://b9a48821-bb39-4b04-a7dc-97dea264b7be@gertest2.nekosocks.com:443?security=reality&encryption=none&pbk=Dh1UomRsMtlpOKAM4lnh9FElnSFwPNZz9wOEgOs2PXU&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gertest2.nekosocks.com&sid=fc993ee4c735f617#🇩🇪Германия 1 быстро⚡⚡⚡
 vless://5efc9586-8c8c-4566-8292-9e55ef9ee5e0@vpn-de1.need.tg:8443?security=reality&encryption=none&pbk=kt-wshmPVd-J1dlU-tsXUoGag2-oFwYQ5UafScaAfzQ&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=apple.com#🇩🇪Германия 2
 vless://5efc9586-8c8c-4566-8292-9e55ef9ee5e0@13.140.8.207:8443?security=reality&encryption=none&pbk=kt-wshmPVd-J1dlU-tsXUoGag2-oFwYQ5UafScaAfzQ&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=apple.com#🇸🇪Шведция
