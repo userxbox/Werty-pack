@@ -1,7 +1,7 @@
 Хз#profile-title: werty pack
 #profile-update-interval: 7
 
-vless://371f2ff8-93cd-4345-94aa-7d1801bdfdbb@217.170.199.147:443?security=reality&encryption=none&alpn=h2&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=azure.com#:(
+vless://371f2ff8-93cd-4345-94aa-7d1801bdfdbb@217.170.199.147:443?security=reality&encryption=none&alpn=h2&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=azure.com#updates @wertynowupd
 vless://478253ff-56c1-4897-a0b0-4816bd47bb51@nlnode.verdian.app:443?security=reality&encryption=none&pbk=lXmYnBaoyNMcH6TaKLuiKrDhT4j3agj93AMu2vv5-TA&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=nlnode.verdian.app#🇳🇱Нидерланды
 vless://478253ff-56c1-4897-a0b0-4816bd47bb51@finode.verdian.app:443?security=reality&encryption=none&pbk=lXmYnBaoyNMcH6TaKLuiKrDhT4j3agj93AMu2vv5-TA&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=finode.verdian.app#🇫🇮Финляндия 
 vless://478253ff-56c1-4897-a0b0-4816bd47bb51@grnode.verdian.app:443?security=reality&encryption=none&pbk=lXmYnBaoyNMcH6TaKLuiKrDhT4j3agj93AMu2vv5-TA&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=grnode.verdian.app#🇩🇪Германия 
