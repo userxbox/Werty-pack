@@ -22,3 +22,8 @@ vless://f010feb2-38f0-4903-a82d-2491895a93d5@minecraft-1.core-multiplayer.com:44
 vless://f010feb2-38f0-4903-a82d-2491895a93d5@minecraft-2.core-multiplayer.com:443?security=reality&encryption=none&pbk=VHF-dD-tisM7mq7wkcHNfohYjFGlz9n6ZeKLSm2XhGc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=minecraft-2.core-multiplayer.com&sid=4fd3840415403f31#🇵🇱Польша 4
 vless://f010feb2-38f0-4903-a82d-2491895a93d5@lv2.foxnezia.dev:443?security=reality&encryption=none&pbk=AuvcUY2m3QUpS83fkTGBvIfP9_MLCY-cRlyNbfDRt3E&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=lv2.foxnezia.dev&sid=74f4c8d6#🇱🇻Латвия 
 vless://f010feb2-38f0-4903-a82d-2491895a93d5@options.core-multiplayer.com:443?security=reality&encryption=none&pbk=VHF-dD-tisM7mq7wkcHNfohYjFGlz9n6ZeKLSm2XhGc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=options.core-multiplayer.com&sid=4fd3840415403f31#🇳🇱Нидерланды 6
+hy2://ba8fec0e-465f-4bb2-abb9-aaf5c3cdf372@144.31.207.87:443?sni=data-1.1984vpn.ru&insecure=1&alpn=h3&fp=firefox#🇳🇱nederlands #(-)
+hy2://ba8fec0e-465f-4bb2-abb9-aaf5c3cdf372@64.188.67.69:443,111.88.214.157:443?sni=data-1.1984vpn.ru&insecure=1&alpn=h3&fp=firefox#🇩🇪germany
+hy2://ba8fec0e-465f-4bb2-abb9-aaf5c3cdf372@85.155.228.142:443?sni=data-1.1984vpn.ru&insecure=1&alpn=h3&fp=chrome#🇦🇱Albania
+hy2://ba8fec0e-465f-4bb2-abb9-aaf5c3cdf372@130.49.188.72:443?sni=data-1.1984vpn.ru&alpn=h3&fp=firefox#🇩🇰Denmark
+hy2://ba8fec0e-465f-4bb2-abb9-aaf5c3cdf372@83.143.112.189:443,111.88.215.190:443,111.88.215.198:443,111.88.215.199:443?sni=data-1.1984vpn.ru&alpn=h3&fp=firefox#🇫🇮Finland 
