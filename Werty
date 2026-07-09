@@ -1,16 +1,4 @@
 #profile-title: werty pack
 #profile-update-interval: 7
 
-vless://371f2ff8-93cd-4345-94aa-7d1801bdfdbb@217.170.199.147:443?security=reality&encryption=none&alpn=h2&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=azure.com#updates @wertynowupd
-vless://415a0f45-8225-45b3-affb-347b732183b9@gertest.nekosocks.com:443?security=reality&encryption=none&pbk=5HK6AhUPIiVxSCT12HkhlxqfSBaPh6UPqONgMAlSKD0&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=gertest.nekosocks.com&sid=f34a04185a7a081e#🇩🇪Германия скоро всё заработает
-vless://371f2ff8-93cd-4345-94aa-7d1801bdfdbb@217.170.199.147:443?security=reality&encryption=none&alpn=h2&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=azure.com#👇 не рабочие 
-vless://d9136c13-9320-487d-b702-61bbb4cd4228@45.84.222.181:2053?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.gitlab.com&fp=firefox&pbk=klqenfvPoePfiVDDeWb7GwcIB25cWF1bjuNVjVDc8BA&sid=17e9a4f3#Нейросети [GEMINI, CHATGPT]
-vless://d9136c13-9320-487d-b702-61bbb4cd4228@2.26.255.84:2053?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.wikipedia.org&fp=firefox&pbk=R8xftcMvqVlcV9qfWgpPl3MRyG_LCIludWnD10IxX0g&sid=e8f527b1#Игровой сервер
-vless://d9136c13-9320-487d-b702-61bbb4cd4228@94.156.170.64:2053?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.microsoft.com&fp=firefox&pbk=E-dryqJ7KUbMBoBfOT93K5O_Q8CDlRLfJhHzjwMOkRk&sid=7c1e4a9d#🇩🇪 ⚡️ Германия
-vless://d9136c13-9320-487d-b702-61bbb4cd4228@77.110.121.154:2053?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.lenovo.com&fp=firefox&pbk=ggFuUPGC6JZ1ZTtwv4pNJxWdVhxBctbbAatmDzDyjWA&sid=6a1c9f72#🇸🇪 ⚡️ Швеция
-vless://d9136c13-9320-487d-b702-61bbb4cd4228@31.13.208.176:2053?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.jetbrains.com&fp=firefox&pbk=h4s-Scg41-yROtgBf8azOQoO4_qtMELcMq7uezNRQ2A&sid=f4b19d2e#🇫🇮Финляндия
-vless://d9136c13-9320-487d-b702-61bbb4cd4228@178.215.239.38:2053?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.wikipedia.org&fp=firefox&pbk=R8xftcMvqVlcV9qfWgpPl3MRyG_LCIludWnD10IxX0g&sid=0d7b4a92#🇵🇱 ⚡️ Польша
-vless://d9136c13-9320-487d-b702-61bbb4cd4228@95.181.173.106:2053?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=firefox&pbk=IsmDt0eBYMCVAMqR-iAIh2FjXn1fYm9nVzQetdMty3A&sid=d0e7b451#🇺🇸 США
-vless://371f2ff8-93cd-4345-94aa-7d1801bdfdbb@217.170.199.147:443?security=reality&encryption=none&alpn=h2&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=azure.com#ВАЖНО!!! 
-vless://371f2ff8-93cd-4345-94aa-7d1801bdfdbb@217.170.199.147:443?security=reality&encryption=none&alpn=h2&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=azure.com#НОВЫЙ КОНФИНГ
-vless://371f2ff8-93cd-4345-94aa-7d1801bdfdbb@217.170.199.147:443?security=reality&encryption=none&alpn=h2&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=azure.com#В ТГ @wertynow
+vless://371f2ff8-93cd-4345-94aa-7d1801bdfdbb@217.170.199.147:443?security=reality&encryption=none&alpn=h2&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=azure.com#проект закрыт :(
